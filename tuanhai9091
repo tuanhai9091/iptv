@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,VTV1 HD
+http://livetv1.flix.vn/d56ce7d5648eb5fdccada4ce42f43287/spsklfl/vtv1hd.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1,VTV2
+http://livetv1.flix.vn/d56ce7d5648eb5fdccada4ce42f43287/spsklfl/vtv2.360p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1,VTV3 HD
+http://livetv1.flix.vn/d56ce7d5648eb5fdccada4ce42f43287/spsklfl/vtv3.720p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1,VTV6 HD
+http://livetv1.flix.vn/d56ce7d5648eb5fdccada4ce42f43287/spsklfl/vtv6.720p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1,VTC1 HD
+http://livetv1.flix.vn/d56ce7d5648eb5fdccada4ce42f43287/spsklfl/vtc1.1080p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1,VTC3 HD
+http://livetv1.flix.vn/d56ce7d5648eb5fdccada4ce42f43287/spsklfl/vtc3.720p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1,Thuần Việt HD
+http://livetv1.flix.vn/d56ce7d5648eb5fdccada4ce42f43287/spsklfl/thuanviet.720p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1,HTVC Phim HD
+http://livetv1.flix.vn/d56ce7d5648eb5fdccada4ce42f43287/spsklfl/htvc_movies.720p.stream/playlist.m3u8|User-Agent=Mozilla/5.0
